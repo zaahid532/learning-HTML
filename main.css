@@ -1,0 +1,63 @@
+h2 {
+    text-align: center;
+    font-size: xx-large;
+}
+.judul {
+    color: rgb(101, 189, 109);
+}
+#subjudul {
+    text-align: center;
+    font-size: 95px;
+}
+p a {
+    text-align: center;
+    font-size: xx-large;
+    color: indigo;
+}
+article p{
+    color: blue;
+}
+article > p{
+    color: black;
+}
+h3 + p {
+    color: black;
+}
+p ~ section {
+    border: 2px solid red;
+    border-radius: 7px;
+    padding: 7px;
+    margin-bottom: 5px;
+}
+.examplecolor1 {
+    color:aqua;
+}
+.examplecolor2 {
+    color:rgb(214, 51, 51);
+}
+.examplecolor3 {
+    color:hsl(33, 65%, 55%);
+}
+.examplecolor4 {
+    color:#f14769;
+}
+.examplecolor5 {
+    color:darkcyan;
+}
+p {
+    background-color: rgb(214, 51, 51);
+}
+h1 {
+    text-decoration: underline;
+}
+p {
+    text-align: left;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: bold;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.exampleText {
+    font-family: Brush Script MT, Brush Script Std, cursive;
+}
